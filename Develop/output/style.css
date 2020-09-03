@@ -1,0 +1,41 @@
+.team-heading {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.team-area{
+    width: 100%;
+}
+
+.employee-card {
+
+}
+
+.card-body {
+    background-color: cornflowerblue;
+    
+}
+
+.list-group-item {
+    background-color: cornflowerblue;
+    color: white;
+    text-decoration: none;
+}
+
+.list-group-item > a{
+    text-decoration: none;
+}
+
+.manager {
+    background-color: tomato;
+    color: white;
+}
+
+.engineer {
+    background-color: rgb(182, 26, 112);
+    color: white;
+}
+
+.intern {
+    background-color: orange;
+}
